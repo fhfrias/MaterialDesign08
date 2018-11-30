@@ -8,6 +8,6 @@ public class Material08 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.app1);
+        setContentView(R.layout.app2);
     }
 }
